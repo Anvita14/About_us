@@ -1,0 +1,94 @@
+* {
+  padding:0;
+  margin:0;
+}
+
+.img {
+   background:url("https://media-exp1.licdn.com/dms/image/C561BAQGxZLeIJdwpWA/company-background_10000/0/1606687678703?e=2159024400&v=beta&t=bjRabCgWGt44WkupNJPvGfjSbupq-9JuapmY9zy35M8") no-repeat center center; */
+   background-size: cover;
+  width:100%;
+  height:1000px;
+  position:fixed;
+  top:0;
+  z-index:1;
+}
+
+.img_fond1 {
+  background:url("https://media-exp1.licdn.com/dms/image/C561BAQGxZLeIJdwpWA/company-background_10000/0/1606687678703?e=2159024400&v=beta&t=bjRabCgWGt44WkupNJPvGfjSbupq-9JuapmY9zy35M8") no-repeat center center;
+  background-size: cover;
+  width:100%;
+  height:1000px;
+  position:fixed;
+  top:0;
+  z-index:1;
+}
+
+.img_fond2 {
+  /* background:url("https://lh3.googleusercontent.com/proxy/aaPeS1cD9iaYRMQiU4Ek02wnr4lu8LI4dcy31csbSeYlvzMdB0gkEIHkd8NuOSbpEdONVcz5LNY3ifI3V0OIO9Nbf_pSPrV7qIlVr49mEYf7u8Kl9fn1uSfQ0OtLMhnvdPqMulkrbUQ6YTsxzaNu8eXRVEpc7PfSJ9TqqB-RC0g2zZ6o8oC48XbPqvSglQ") no-repeat center center; */ */
+/* background:url("https://lh3.googleusercontent.com/proxy/gPEnVvCDnOX4qqywD7KyEKtQA5TZGT4-lCocUIyAzgVvIJvmEFsKIrGZnY-7bQBHp6vGhlluS-YgwcFqaFlA9i5zDf50p0tQSjsYbgWSjBy3MM-I-8axiRoS0yirhY28CVbNdxvH8Uv-PEdxJzSRkd_oTiQPa3CFJFW8BGw")no-repeat center center; */
+background: url("https://i.ytimg.com/vi/l1FyGn_muBk/hqdefault.jpg")no-repeat center center;
+
+  background-size: cover;
+  background-attachment: fixed;
+  width:100%;
+  height:1000px;
+  position:relative;
+  z-index:3;
+}
+
+.img_fond3 {
+  /* background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhW8HLamG_PuThp0Il2VKZI9U88VmBTMZnYw&usqp=CAU") no-repeat center center; */
+  background: url("https://www.iwmbuzz.com/wp-content/uploads/2020/04/throwback-to-darshan-ravals-live-performances-you-can-watch-in-lockdown.jpg")no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+  width:100%;
+  height:1000px;
+  position:relative;
+  z-index:3;
+}
+
+.bloc {
+  /* background:#278948; */
+  background: black;
+  position:relative;
+  margin-top:200px;
+  padding:100px;
+  color:#fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight:300;
+  z-index:3;
+  opacity:.7;
+    font-size: 1.5rem;
+}
+
+.bloc2 {
+  /* background:#ac4904; */
+  background: black;
+  position:relative;
+  margin-top:200px;
+  padding:100px;
+  color:#fff;
+  font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+  font-weight:300;
+  opacity:.7;
+  z-index:3;
+}
+
+.bloc3 {
+  /* background:#fff; */
+  background: black;
+  position:relative;
+  margin-top:200px;
+  padding:100px;
+  color:#fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  font-weight:300;
+  opacity:.7;
+  z-index:3;
+}
+
+.mr_top_null {
+  margin-top:0;
+}
